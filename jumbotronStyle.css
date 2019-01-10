@@ -1,0 +1,19 @@
+.jumbotron{
+ padding: 1rem;
+ border-radius: 0;
+}
+.padding{
+ padding-bottom: 2rem;
+}
+.display-4{
+ font-size: 2rem;
+}
+.btn-outline-secondary{
+padding: 2rem;
+background-color: #FF9778;
+}
+
+.btn-outline-secondary:hover{
+  background-color: #FF9778;
+  border: 1px solid#563d7c;
+}
